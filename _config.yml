@@ -1,5 +1,6 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 title: RESO Unique Licensee Identifier
+description: Unique Licensee Matching and Resolution Service
 
 #github:
 #  is_project_page: false
