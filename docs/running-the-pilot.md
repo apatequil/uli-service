@@ -47,7 +47,7 @@ If you are using the provided template spreadsheet, the items created will match
 ## 4. Querying the Pilot Data
 After you have ingested the data, you can query the server using Kibana's [Dev Tools](http://localhost:5601/app/dev_tools#/console). These will connect to the local Elastic instance, and provides a convenient place to try out queries. 
 
-In this case, you'll want to use something similar to the query that's posted in the [`uli-ranking-formula.json` file](https://github.com/RESOStandards/uli-service/blob/main/uli-ranking-formula.json):
+In this case, you'll want to use something similar to the query that's posted in the [`ULI Pilot Search query` file](https://github.com/RESOStandards/uli-service/blob/main/uli-ranking-formula.json):
 
 ![dev-tools](https://user-images.githubusercontent.com/535358/121968113-7cbacb80-cd26-11eb-917d-1e5093242e09.png)
 
